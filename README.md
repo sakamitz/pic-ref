@@ -1,2 +1,2 @@
 # picture-reference  
-It's private, no fork.
+Only for private, no fork.
